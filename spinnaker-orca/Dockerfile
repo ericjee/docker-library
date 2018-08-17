@@ -1,2 +1,2 @@
-FROM gcr.io/spinnaker-marketplace/orca:1.0.0-20180716022805
+FROM gcr.io/spinnaker-marketplace/orca:1.0.0-20180814155153
 MAINTAINER ericjee <ericjee@ericjee.me>

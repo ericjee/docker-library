@@ -1,2 +1,2 @@
-FROM gcr.io/spinnaker-marketplace/gate:1.1.0-20180712134332
+FROM gcr.io/spinnaker-marketplace/gate:1.1.0-20180803022808
 MAINTAINER ericjee <ericjee@ericjee.me>

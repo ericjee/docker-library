@@ -1,0 +1,2 @@
+FROM gcr.io/spinnaker-marketplace/monitoring-daemon:0.8.0-20180803022808
+MAINTAINER ericjee <ericjee@ericjee.me>
