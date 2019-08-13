@@ -1,0 +1,1 @@
+FROM gcr.io/kubeflow-ci/pytorch-dist-mnist_test@sha256:ec6064f7069b8f6521f80f1dea3cc526fb2fdb429c1730dd7f2d0ba5a9db28bd
