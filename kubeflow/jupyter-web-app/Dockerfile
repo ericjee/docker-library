@@ -1,1 +1,1 @@
-FROM gcr.io/kubeflow-images-public/jupyter-web-app:e8a8a6f
+FROM gcr.io/kubeflow-images-public/jupyter-web-app@sha256:fa788e8e463c82246cb993ed40a2d78dc3823ea601e5ad8a6479cfcb53107e4e
